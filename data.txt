@@ -1,0 +1,2 @@
+Daniel|Chevdar|pass|Austin, Texas|
+Vlad|Chevdar|pass|Portland, Oregon|
