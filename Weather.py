@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 
 # My personal api key from openweathermap.org
-API_KEY = '5b853fca1aa27d671dbdcc41185df56a'
+API_KEY = 'INSERT_YOUR_API_KEY_HERE'
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather?'
 
 class Weather:
